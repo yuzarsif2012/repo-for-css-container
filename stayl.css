@@ -1,0 +1,22 @@
+.container-02 {
+background-color:  darkcyan;
+}
+
+h5 {
+    color: white;
+    margin-bottom: 5px
+    
+}
+
+.container-p {
+    color: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 30px;
+}
